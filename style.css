@@ -16,7 +16,6 @@ body {
   background: #000000;
   color:white ;
   padding: 10px 0;
-  margin: 0;
   font-size: 20px;
 }
 
@@ -29,7 +28,6 @@ span {
   height: 100px;
   background: #7F7F7F;
   float: left;
-  margin: 1px;
   font-size: 65px;
 }
 .square:hover {
